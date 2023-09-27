@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JBS-POC/JBS.iml" filepath="$PROJECT_DIR$/JBS-POC/JBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PraticaDevOps.iml" filepath="$PROJECT_DIR$/.idea/PraticaDevOps.iml" />
+    </modules>
+  </component>
+</project>
